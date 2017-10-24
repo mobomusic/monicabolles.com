@@ -1,0 +1,22 @@
+---
+layout: page
+title: Controllers
+permalink: /controllers/
+---
+
+<div class="home">
+
+ <!--  <h1 class="page-heading"></h1> -->
+ <!-- Add limit:(limit#) after site.posts below to limit amount of posts to front page.-->
+
+  <ul class="post-list2">
+    {% for post in site.categories.controllers %}
+
+      {% include pagebody.html %}
+
+    {% endfor %}
+  </ul>
+
+
+
+</div>

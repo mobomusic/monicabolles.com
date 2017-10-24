@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "The New Aesthetic"
+date:   2016-10-30 13:30:00:00
+categories: digitalArtHistory
+---
+
+The New Aesthetic is a term coined by James Bridle on his Tumblr blog that explores the aesthetic that arises through the relationships between the human and physical world and digital culture.  The term and blog blew up when Bridle hosted a panel at SXSW in 2012.  There was something about putting a name to the curated pictures, articles, and websites that stimulated something within the community of bloggers and writers that attended his panel that year.  There was something worth writing about.  
+
+While the term New Aesthetic is a new one to me the images and information Bridle posts on his blog are not.  I recognized most immediately as images friends have posted on Facebook, as images I have posted on Facebook, as conversations I have had with different artists as we discuss our interests in the relationships between physical and digital planes, and as art I have seen in galleries or exhibitions.  The artistic implications are concepts I even play with and explore within my own artistic practices.  
+
+Bruce Sterling stated in his article An Essay on the New Aesthetic, “The New Aesthetic concerns itself with ‘an eruption of the digital into the physical.’ That eruption was inevitable. It’s been going on for a generation. It should be much better acculturated than it is.”  He also quotes, “ 
+Anybody with a spark of perception who looks through this thing: ([James Bridle’s New Aesthetic Blog](http://new-aesthetic.tumblr.com/)) must recognize that modern reality is on display there.”  Both quotes address the accentuation of the fact that this movement has been happening for a while. It is all around us and in everything thing we do.  Artists are of course flocking to the creation of pieces that comment on the relationships we share with digital technology.  The digital space has become so much a part of our reality that the lines between physical and digital existence barely exist.  What kind of world would we live in if artists of our time didn’t create commentary about this relationship?
+
+About a year ago I had the privilege to have an elongated conversation about just this topic with Brian Kane.  We were discussing my personal interests in the manipulation of the physical within the digital space.  I had been working with 3D scanning and found it fascinating the ways in which we can take a representation of something so physical, like the human body, and manipulate and distort it so easily within the digital space.  This concept was nothing new to Brian Kane as he was one of the initiators in the art of video remixing.  In the 90’s he would take news footage and find ways to manipulate, distort, and remix it into new and reimagined video montages.  He began to describe his current interests in taking the digital and making it physical.  He was fascinated in taking pixelated images and creating physical body suits that mimicked this look.  Looking on his [website](http://briankane.net/) today I would say he is almost the poster child for the New Aesthetic.  
+
+I think what I find most interesting about this “movement”, is not necessarily the movement, but the reaction of the commentators.  Maybe it is my ignorance to the art world, but the apparent reaction to Bridle’s coined term, The New Aesthetic, seems hyped and over excited.  While his blog is definitely interesting and hosts a great curation of works questioning the physical/digital relationships of our time, these works existed long before he placed them on a blog.  This kind of art should be more “acculturated” then it is, for it is the kind of art that explores and questions our modern world.  Maybe this is why Bridle’s curation has elicited the response that it has, he took something that was right there in front of our faces and gave it a name and a place.  Either way I do believe that this is the art of our times and this “New Aesthetic” will only continue to develop, evolve, and morph as the changes in technology question our everyday existence.  
+
+
+ 

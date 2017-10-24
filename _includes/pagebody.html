@@ -1,0 +1,41 @@
+      
+<body>
+      <li class= "projects-li">
+
+      <table>
+        <tr>
+          <td class= "vid-td">
+
+          {% if post.vid %}
+            <iframe class= "post-vid" src="{{post.vid}}?title=0&amp;byline=0&amp;portrait=0&amp;color=999999" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+            </iframe>
+          {% elsif post.img %}
+            <img class= "post-img" src = "../{{ post.img }}" >
+          {% endif %} 
+
+          </td>
+          <td class="td-content">
+            <span class="post-meta">{{ post.date | date: "%Y" }}</span>
+
+            <h2>
+            {% if post.link %}
+              <a class="post-link" href="{{ post.link }}">{{ post.title }}</a>
+
+            {% elsif post.noLink %}
+              <h1 class="post-link">{{ post.title }}</h1>
+            
+            {% else %}
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% endif %}
+
+            </h2>
+              <p class="post-about">{{post.about}}</p>
+
+            </h2>
+              <p class="post-credit">{{post.credit}}</p>
+          </td>
+        </tr>
+      </table>
+
+      </li>
+  </body>

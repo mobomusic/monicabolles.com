@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Building Analog Audio Filters</title>
+  <meta name="description" content="  ">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/practicalelectronics/2016/01/21/Building-Analog-Audio-Filters.html">
+  <link rel="alternate" type="application/rss+xml" title="Monica Bolles" href="http://localhost:4000/feed.xml" />
+
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <div class="site-header-border">
+
+      <a class="site-title" href="/">Monica Bolles</a>
+
+      <nav class="site-nav">
+        <a href="#" class="menu-icon">
+          <svg viewBox="0 0 18 15">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </a>
+
+        <div class="trigger">
+          
+            
+            <a class="page-link" href="/about/">About</a>
+            
+          
+            
+            <a class="page-link" href="/art/">Art</a>
+            
+          
+            
+            <a class="page-link" href="/controllers/">Controllers</a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+            <a class="page-link" href="/production/">Production</a>
+            
+          
+            
+            <a class="page-link" href="/sound/">Sound</a>
+            
+          
+        </div>
+      </nav>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Building Analog Audio Filters</h1>
+    <p class="post-meta">Jan 21, 2016</p>
+  </header>
+
+  <article class="post-content">
+      <body>
+
+    <!-- MAIN CONTENT -->
+    
+    <p>It was the first official day of our practical electronics course, kindly hosted by Abhishek Narula, and we were to learn about capacitors, potentiometers, and how to build a high pass and low pass filter.  Now this was exciting.  I come from an audio engineering and music production background and filters are something I use on an everyday basis.  Today I would learn how these filters were traditionally created in the analog world.</p>
+
+   <p>To begin to understand how an audio filter is built it is important to recognize this equation: $$fc = 1/2πRC$$ This is where $fc$ equals the cutoff frequency, $R$ equals the resistance, and $C$ equals the capacitance.  This equation demonstrates that by changing either the resistance or the capacitance that you are altering the cutoff frequency. If we add a potentiometer in series with a capacitor we can change the value of the cutoff frequency, by varying the resistance.</p>
+
+   <p>Let's talk about potentiometers.  What is a potentiometer you ask?  Well a potentiometer is a variable resistor.  This means that it allows you to vary the amount of resistance just by turning a knob. There are four kinds of potentiometers. The two most common and most applicable to our purposes are: A log potentiometer which changes the amount of resistance by a logarithmic scale, and a linear potentiometer which changes the amount of resistance by a linear scale. The log potentiometer is the most commonly used potentiometer for audio related applications because audio loudness is typically measured logarithmically.</p>
+
+   <p>To change the filter from a highpass to a lowpass filter or vice versa all you need to do is change the location of the resistor in relationship to the capacitor.  If the resistor is before the capacitor in the circuit you have a low pass filter.  If it is after the capacitor you have a high pass filter.</p>
+
+   <p><b>Below is a video demonstrating the final circuit in action:</b></p>
+    
+    <video width="640" height="480" controls >
+  	<source src="/media/Filters.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+  	</video>
+
+  </body>
+  </article>
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+   <!--  <h2 class="footer-heading">Monica Bolles</h2> -->
+   <div class="site-footer-border">
+
+      <div class="footer-col-wrapper">
+        <div class="footer-col  footer-col-1">
+          <ul class="contact-list">
+         <!--    <li>Monica Bolles</li> -->
+            <li><a href="mailto:"></a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col  footer-col-2">
+          <ul class="social-media-list">
+            
+
+            
+          </ul>
+        </div>
+
+        <div class="footer-col  footer-col-3">
+          <p class="text"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

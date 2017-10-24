@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Building Analog Audio Filters"
+date:   2016-01-21 22:19:23
+categories: practicalElectronics
+imageurl: "media/2016-01-21-Filters.jpg"
+---
+
+  <body>
+
+    <!-- MAIN CONTENT -->
+    
+    <p>It was the first official day of our practical electronics course, kindly hosted by Abhishek Narula, and we were to learn about capacitors, potentiometers, and how to build a high pass and low pass filter.  Now this was exciting.  I come from an audio engineering and music production background and filters are something I use on an everyday basis.  Today I would learn how these filters were traditionally created in the analog world.</p>
+
+   <p>To begin to understand how an audio filter is built it is important to recognize this equation: $$fc = 1/2πRC$$ This is where $fc$ equals the cutoff frequency, $R$ equals the resistance, and $C$ equals the capacitance.  This equation demonstrates that by changing either the resistance or the capacitance that you are altering the cutoff frequency. If we add a potentiometer in series with a capacitor we can change the value of the cutoff frequency, by varying the resistance.</p>
+
+   <p>Let's talk about potentiometers.  What is a potentiometer you ask?  Well a potentiometer is a variable resistor.  This means that it allows you to vary the amount of resistance just by turning a knob. There are four kinds of potentiometers. The two most common and most applicable to our purposes are: A log potentiometer which changes the amount of resistance by a logarithmic scale, and a linear potentiometer which changes the amount of resistance by a linear scale. The log potentiometer is the most commonly used potentiometer for audio related applications because audio loudness is typically measured logarithmically.</p>
+
+   <p>To change the filter from a highpass to a lowpass filter or vice versa all you need to do is change the location of the resistor in relationship to the capacitor.  If the resistor is before the capacitor in the circuit you have a low pass filter.  If it is after the capacitor you have a high pass filter.</p>
+
+   <p><b>Below is a video demonstrating the final circuit in action:</b></p>
+    
+    <video width="640" height="480" controls >
+  	<source src="/media/Filters.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+  	</video>
+
+  </body>

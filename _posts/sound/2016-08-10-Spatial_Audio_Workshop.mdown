@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Spatial Audio Workshop"
+date:   2016-08-17 13:18:00
+categories: sound
+about: Compostition for 139 Speakers at Virginia Tech's The Cube.   
+img: media/160821_The_Cube.jpg
+link: http://www.roanoke.com/news/local/blacksburg/first-cube-fest-to-open-virginia-tech-s-unique-room/article_464d55f6-68f1-59a2-946b-490f164ac03d.html
+---

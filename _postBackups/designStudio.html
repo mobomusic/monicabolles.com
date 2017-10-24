@@ -1,0 +1,34 @@
+---
+layout: page
+title: Design Studio
+permalink: /designStudio/
+---
+
+<div class="home">
+
+ <!--  <h1 class="page-heading"></h1> -->
+ <!-- Add limit:(limit#) after site.posts below to limit amount of posts to front page.-->
+
+  <ul class="post-list2">
+    {% for post in site.categories.designStudio %}
+      <li>
+<!--         <img src = "../{{ post.imageurl }}" style = "float: right;" height = "230" width = "340"> -->
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+        </h2>
+
+        <!-- <img src="/media/IMG_1044.jpg" style="width: 304px; height: 228px; display: inline-block;"> -->
+      </li>
+
+
+    {% endfor %}
+  </ul>
+
+ 
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
