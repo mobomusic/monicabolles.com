@@ -3,18 +3,18 @@
   <channel>
     <title>Monica Bolles</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Oct 2017 00:37:57 -0500</pubDate>
-    <lastBuildDate>Tue, 24 Oct 2017 00:37:57 -0500</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <link>http://monicabolles.com/</link>
+    <atom:link href="http://monicabolles.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 15 Aug 2018 16:09:43 -0500</pubDate>
+    <lastBuildDate>Wed, 15 Aug 2018 16:09:43 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Tippet Rise</title>
         <description></description>
         <pubDate>Sat, 17 Jun 2017 08:18:00 -0500</pubDate>
-        <link>http://localhost:4000/sound/2017/06/17/Tippet_Rise.mdown</link>
-        <guid isPermaLink="true">http://localhost:4000/sound/2017/06/17/Tippet_Rise.mdown</guid>
+        <link>http://monicabolles.com/sound/Tippet_Rise/</link>
+        <guid isPermaLink="true">http://monicabolles.com/sound/Tippet_Rise/</guid>
         
         
         <category>sound</category>
@@ -26,8 +26,8 @@
         <description>
 </description>
         <pubDate>Fri, 05 May 2017 08:18:00 -0500</pubDate>
-        <link>http://localhost:4000/controllers/2017/05/05/Universal_Mind_Control.html</link>
-        <guid isPermaLink="true">http://localhost:4000/controllers/2017/05/05/Universal_Mind_Control.html</guid>
+        <link>http://monicabolles.com/controllers/Universal_Mind_Control/</link>
+        <guid isPermaLink="true">http://monicabolles.com/controllers/Universal_Mind_Control/</guid>
         
         
         <category>controllers</category>
@@ -45,8 +45,8 @@
 &lt;/video&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 08:18:00 -0500</pubDate>
-        <link>http://localhost:4000/controllers/2017/04/29/BrainwavesDress.html</link>
-        <guid isPermaLink="true">http://localhost:4000/controllers/2017/04/29/BrainwavesDress.html</guid>
+        <link>http://monicabolles.com/controllers/BrainwavesDress/</link>
+        <guid isPermaLink="true">http://monicabolles.com/controllers/BrainwavesDress/</guid>
         
         
         <category>controllers</category>
@@ -54,11 +54,23 @@
       </item>
     
       <item>
+        <title>Resonant</title>
+        <description></description>
+        <pubDate>Thu, 27 Apr 2017 08:18:00 -0500</pubDate>
+        <link>http://monicabolles.com/production/Resonant/</link>
+        <guid isPermaLink="true">http://monicabolles.com/production/Resonant/</guid>
+        
+        
+        <category>production</category>
+        
+      </item>
+    
+      <item>
         <title>Creative ++</title>
         <description></description>
         <pubDate>Fri, 17 Feb 2017 07:18:00 -0600</pubDate>
-        <link>http://localhost:4000/production/2017/02/17/Creative_plus_plus.html</link>
-        <guid isPermaLink="true">http://localhost:4000/production/2017/02/17/Creative_plus_plus.html</guid>
+        <link>http://monicabolles.com/production/Creative_plus_plus/</link>
+        <guid isPermaLink="true">http://monicabolles.com/production/Creative_plus_plus/</guid>
         
         
         <category>production</category>
@@ -69,79 +81,11 @@
         <title>Face Trax</title>
         <description></description>
         <pubDate>Sat, 11 Feb 2017 07:18:00 -0600</pubDate>
-        <link>http://localhost:4000/controllers/2017/02/11/Face_Trax.html</link>
-        <guid isPermaLink="true">http://localhost:4000/controllers/2017/02/11/Face_Trax.html</guid>
+        <link>http://monicabolles.com/controllers/Face_Trax/</link>
+        <guid isPermaLink="true">http://monicabolles.com/controllers/Face_Trax/</guid>
         
         
         <category>controllers</category>
-        
-      </item>
-    
-      <item>
-        <title>Digital World</title>
-        <description>&lt;p&gt;What does it mean to live in a digital culture?  As I write this I am sitting in a coffee shop looking at the surrounding people all alone, drinking their coffee, typing away at their computers, just as I am doing.  We are all disconnected from the world around us, lost in whatever this magical screen has to offer.  If I stare at it long enough I almost feel like I would get sucked into the portal of digital space the computer’s open jaw has created… if only this damned glass wasn’t in the way.  And this is our world now.  It wasn’t always this way.  I remember the days where computers were more of a novelty, but now they are everywhere.  They are our companions and our best friends.  I probably spend more time with my computer then any one person in my life.&lt;/p&gt;
-
-&lt;p&gt;Two people just sat down across from me.  They have grey hair and a carefree appearance.  They look like they’re from Boulder when Boulder wasn’t the yuppie village it has turned into today.  They make a comment on the state of the coffee shop.  They question what socialization will look like in a few years from now.  Are we losing our abilities to socialize?  I find myself socializing with my computer right now.  Microsoft Word and I are having a wonderful conversation.  I feel like I can communicate better with some sort of inanimate technology that allows me to write my thoughts and express my feelings with no judgment.  Right now as I write I know that I can say whatever I want and if I decide I want to share what I have written with other humans I can edit, delete, and control my stream of thought.  The magic of Word is that I can easily do this and no one will ever know what was once written in this space.  The digital world seems safe.  Like you can express your deepest darkest secrets and no one will ever know.&lt;/p&gt;
-
-&lt;p&gt;I now find myself distracted by the fact these people across from me are having a conversation.  The man speaking has a soft spoken voice yet it seems deafening in the midst of computer typing and coffee pouring.  I begin to wonder why they can’t just join the masses in the quiet solemn of laptop central.&lt;/p&gt;
-
-&lt;p&gt;So here I am, contemplating the relationship I share with my computer, this coffee shop, and the people around me, wondering what it means to live in the world we do today.  I question where the lines blur.  Where it is that forms a distinction between my fingers on the keyboard of my computer and the computer itself.  Am I part of the computer?  Are we separate entities?  Or does the connection of my hands to its soft surface somehow define a connection that unifies me to computer.&lt;/p&gt;
-
-&lt;p&gt;And what about the content?  Am I separate from what I read, explore, experience within this space?  The computer offers a chance to look into a portal of a world based on 1s and 0s that somehow form images, words, and interactions.  It doesn’t seem much different than the world out there, except I can manipulate, distort, control, and contain it.  It’s actually very different than the world out there, but again the lines between digital and physical reality seem blurred.&lt;/p&gt;
-
-&lt;p&gt;I don’t believe we are separate from our digital selves.  I believe they are an extension of us that we’ve manipulated and controlled to be the greatest avatar we could imagine would represent who we are to the world.  And the world sees us.  I have around 900 Facebook friends.  I get to know these friends by their posts.  Most of them I haven’t had a physical conversation with in years.  Some of them I’ve only met once.  But I know them.  I know them by the things they say and the pictures they post.  I know where they’ve been, who they’ve loved, what they do for a living.  I can say “Oh, yeah! So and So is married now and with kids but they just traveled to Europe for some time.  It looks like they’re really enjoying life and having a good time.”  But I haven’t talked to this person in ages.  I don’t even know if they remember who I am.  But I act like I know them.  Although maybe they borrowed the kid.  They found pictures on google of some European landmarks and photoshopped their image in.  Maybe they photoshopped their partner in too.  You really don’t know, but you think you know, and in your mind that is So and So.&lt;/p&gt;
-
-&lt;p&gt;I guess what I’m trying to say as I ramble on is that our digital culture has infiltrated our physical reality and sometimes it is hard to find the line where our physical state begins and the digital world ends.  Social media, professional networks, online streaming services, online news channels, all of the worlds that we experience within this digital box, all of these platforms define our reality.  And so I question, in this day and age, in the midst of what one could describe as digital culture, where do we begin and where do we end?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/media/2016-11-28-StreamMing.jpg&quot; alt=&quot;Streaming&quot; /&gt;
-&lt;img src=&quot;/media/2016-11-28-Netorked.jpg&quot; alt=&quot;Networked&quot; /&gt;
-&lt;img src=&quot;/media/2016-11-28-tV.jpg&quot; alt=&quot;Media&quot; /&gt;
-&lt;img src=&quot;/media/2016-11-28-Browser.jpg&quot; alt=&quot;Browser&quot; /&gt;
-&lt;img src=&quot;/media/2016-11-28-Social_Media.jpg&quot; alt=&quot;Socail Media&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 04 Dec 2016 07:18:00 -0600</pubDate>
-        <link>http://localhost:4000/digitalarthistory/2016/12/04/Media_World.html</link>
-        <guid isPermaLink="true">http://localhost:4000/digitalarthistory/2016/12/04/Media_World.html</guid>
-        
-        
-        <category>digitalArtHistory</category>
-        
-      </item>
-    
-      <item>
-        <title>The New Aesthetic</title>
-        <description>&lt;p&gt;The New Aesthetic is a term coined by James Bridle on his Tumblr blog that explores the aesthetic that arises through the relationships between the human and physical world and digital culture.  The term and blog blew up when Bridle hosted a panel at SXSW in 2012.  There was something about putting a name to the curated pictures, articles, and websites that stimulated something within the community of bloggers and writers that attended his panel that year.  There was something worth writing about.&lt;/p&gt;
-
-&lt;p&gt;While the term New Aesthetic is a new one to me the images and information Bridle posts on his blog are not.  I recognized most immediately as images friends have posted on Facebook, as images I have posted on Facebook, as conversations I have had with different artists as we discuss our interests in the relationships between physical and digital planes, and as art I have seen in galleries or exhibitions.  The artistic implications are concepts I even play with and explore within my own artistic practices.&lt;/p&gt;
-
-&lt;p&gt;Bruce Sterling stated in his article An Essay on the New Aesthetic, “The New Aesthetic concerns itself with ‘an eruption of the digital into the physical.’ That eruption was inevitable. It’s been going on for a generation. It should be much better acculturated than it is.”  He also quotes, “ 
-Anybody with a spark of perception who looks through this thing: (&lt;a href=&quot;http://new-aesthetic.tumblr.com/&quot;&gt;James Bridle’s New Aesthetic Blog&lt;/a&gt;) must recognize that modern reality is on display there.”  Both quotes address the accentuation of the fact that this movement has been happening for a while. It is all around us and in everything thing we do.  Artists are of course flocking to the creation of pieces that comment on the relationships we share with digital technology.  The digital space has become so much a part of our reality that the lines between physical and digital existence barely exist.  What kind of world would we live in if artists of our time didn’t create commentary about this relationship?&lt;/p&gt;
-
-&lt;p&gt;About a year ago I had the privilege to have an elongated conversation about just this topic with Brian Kane.  We were discussing my personal interests in the manipulation of the physical within the digital space.  I had been working with 3D scanning and found it fascinating the ways in which we can take a representation of something so physical, like the human body, and manipulate and distort it so easily within the digital space.  This concept was nothing new to Brian Kane as he was one of the initiators in the art of video remixing.  In the 90’s he would take news footage and find ways to manipulate, distort, and remix it into new and reimagined video montages.  He began to describe his current interests in taking the digital and making it physical.  He was fascinated in taking pixelated images and creating physical body suits that mimicked this look.  Looking on his &lt;a href=&quot;http://briankane.net/&quot;&gt;website&lt;/a&gt; today I would say he is almost the poster child for the New Aesthetic.&lt;/p&gt;
-
-&lt;p&gt;I think what I find most interesting about this “movement”, is not necessarily the movement, but the reaction of the commentators.  Maybe it is my ignorance to the art world, but the apparent reaction to Bridle’s coined term, The New Aesthetic, seems hyped and over excited.  While his blog is definitely interesting and hosts a great curation of works questioning the physical/digital relationships of our time, these works existed long before he placed them on a blog.  This kind of art should be more “acculturated” then it is, for it is the kind of art that explores and questions our modern world.  Maybe this is why Bridle’s curation has elicited the response that it has, he took something that was right there in front of our faces and gave it a name and a place.  Either way I do believe that this is the art of our times and this “New Aesthetic” will only continue to develop, evolve, and morph as the changes in technology question our everyday existence.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 30 Oct 2016 13:30:00 -0500</pubDate>
-        <link>http://localhost:4000/digitalarthistory/2016/10/30/New_Aesthetic.html</link>
-        <guid isPermaLink="true">http://localhost:4000/digitalarthistory/2016/10/30/New_Aesthetic.html</guid>
-        
-        
-        <category>digitalArtHistory</category>
-        
-      </item>
-    
-      <item>
-        <title>360 Revolution</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://creative.colorado.edu/~bolles/360revolution/index.html&quot;&gt;360 Revolution: A Curated 360-Degree Experience&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Oct 2016 10:00:00 -0500</pubDate>
-        <link>http://localhost:4000/digitalarthistory/2016/10/23/360_Revolution.html</link>
-        <guid isPermaLink="true">http://localhost:4000/digitalarthistory/2016/10/23/360_Revolution.html</guid>
-        
-        
-        <category>digitalArtHistory</category>
         
       </item>
     
@@ -150,8 +94,8 @@ Anybody with a spark of perception who looks through this thing: (&lt;a href=&qu
         <description>
 </description>
         <pubDate>Mon, 10 Oct 2016 08:18:00 -0500</pubDate>
-        <link>http://localhost:4000/art/2016/10/10/evolsisiht.html</link>
-        <guid isPermaLink="true">http://localhost:4000/art/2016/10/10/evolsisiht.html</guid>
+        <link>http://monicabolles.com/art/evolsisiht/</link>
+        <guid isPermaLink="true">http://monicabolles.com/art/evolsisiht/</guid>
         
         
         <category>art</category>
@@ -175,11 +119,49 @@ Anybody with a spark of perception who looks through this thing: (&lt;a href=&qu
 &lt;p&gt;I guess what I’m trying to say as I ramble on is that our digital culture has infiltrated our physical reality and sometimes it is hard to find the line where our physical state begins and the digital world ends.  Social media, professional networks, online streaming services, online news channels, all of the worlds that we experience within this digital box, all of these platforms define our reality.  And so I question, in this day and age, in the midst of what one could describe as digital culture, where do we begin and where do we end?&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 08:18:00 -0500</pubDate>
-        <link>http://localhost:4000/art/2016/10/01/Media_World_Art.html</link>
-        <guid isPermaLink="true">http://localhost:4000/art/2016/10/01/Media_World_Art.html</guid>
+        <link>http://monicabolles.com/art/Media_World_Art/</link>
+        <guid isPermaLink="true">http://monicabolles.com/art/Media_World_Art/</guid>
         
         
         <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>Spatial Audio Workshop</title>
+        <description></description>
+        <pubDate>Wed, 17 Aug 2016 08:18:00 -0500</pubDate>
+        <link>http://monicabolles.com/sound/Spatial_Audio_Workshop/</link>
+        <guid isPermaLink="true">http://monicabolles.com/sound/Spatial_Audio_Workshop/</guid>
+        
+        
+        <category>sound</category>
+        
+      </item>
+    
+      <item>
+        <title>3D Sound Panner</title>
+        <description>&lt;p&gt;I built a controller for being able to move sound around in 3-Dimensional space.  To begin I ordered an LED compatible button pad, a breakout PCB for the button pad, and a 6 Degrees of Freedom IMU from Sparkfun.  These parts would allow me to build a matrixed button controller pad.&lt;/p&gt;
+
+&lt;p&gt;The first step, once I had picked up the parts, was to solder RGB LEDs into the PCB breakout board along with a diode for each LED.  Once this was done the next step was to solder wires onto all of the columns and rows that controlled the switch functionality and LED functionality of the PCB board.  This came to 16 wires in total.&lt;/p&gt;
+
+&lt;p&gt;I had to choose one color for the LEDs, because if I wanted the full RGB color scheme and I wouldn’t have had enough IOs on SparkFun’s RedBoard to control the full range of colors.  For future implementation I would like to design my own board with enough IO’s to get the full color matrix.  I soldered all of the wires to blue, which on these LEDs was actually green.  This is where I learned that not all LED’s are built in a standard way.&lt;/p&gt;
+
+&lt;p&gt;After I had the board all wired up I plugged it into SparkFun’s RedBoard and uploaded some code that would turn on and off the LED every time the button was toggled.  After some troubleshooting I finally had my button board working properly.&lt;/p&gt;
+
+&lt;p&gt;The next step was to test my IMU to make sure that was working.  This was simple enough as all I needed to do was upload some code to the Arduino that would give back the Euler angles of the IMU and this produced a stable output that would give back x, y, and z values.  I then initially tried to implement the IMU code into the code for the button pad to hopefully have everything controlled off of one board.  This caused some erratic behavior and I decided for this version of my project to just use two separate boards.  I ended up using the RedBoard and the Pro Micro.&lt;/p&gt;
+
+&lt;p&gt;The final thing I did for building the physical controller was to laser cut a Plexiglas box to encase the controller.  To do this I downloaded a template from makerbox that matched the dimensions of the board and opened it in Illustrator.  I then found 2-Dimensional plans for previously built bezels that would encase the buttons.  I copied these plans and cleaned them up.  I placed them on the top of the box to create my own top that I could screw on and attach to the PCB board.&lt;/p&gt;
+
+&lt;p&gt;On the software side I used Max MSP to accept the Serial Data being output from the buttons and the IMU.  I found a project that Jakob Andersen had put together for processing binaural audio in Max and I was able to hook my controller to the virtual sound positioning system he had built.  I altered this to be able to accept sixteen different sources from an ADC input and then placed each of them on a visualized node grid so you could see the horizontal movement of the sound in space.  I also built a way to visualize which button was on and off on the controller.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 May 2016 08:18:00 -0500</pubDate>
+        <link>http://monicabolles.com/controllers/3D_Sound_Panner/</link>
+        <guid isPermaLink="true">http://monicabolles.com/controllers/3D_Sound_Panner/</guid>
+        
+        
+        <category>controllers</category>
         
       </item>
     

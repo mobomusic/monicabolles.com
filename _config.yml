@@ -1,14 +1,15 @@
 # Site settings
 title: Monica Bolles
-email:
-# description: > # this means to ignore newlines until "baseurl:"
-#  This is an expression of me.  Here you may find my art, my life, my love.  
-#  Most importantly the conversations of an artist in the world of science.   
+email: 
+description: # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://monicabolles.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-# vimeo: mobomusic
+vimeo_username: mobomusic
 # github_username: mobomusic
 
 # Build settings
 markdown: kramdown
+
+permalink: /:categories/:title/
+

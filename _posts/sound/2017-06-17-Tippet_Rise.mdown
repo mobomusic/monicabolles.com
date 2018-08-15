@@ -4,6 +4,6 @@ title:  "Tippet Rise"
 date:   2017-06-17 13:18:00
 link: http://tippetrise.org/
 categories: sound
-vid: //player.vimeo.com/video/231213297
-about: Recorded concert summer series for 9.1 Auro3D playback.  
+vid: //player.vimeo.com/video/239500991
+about: Audio engineer for concert summer series. Recorded all performances for 9.1 Auro3D playback.  
 ---
